@@ -101,7 +101,7 @@ GEM
       method_source (~> 0.8.1)
     pry-rails (0.3.6)
       pry (>= 0.10.4)
-    rack (2.0.1)
+    rack (2.0.6)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (5.0.2)
